@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Human-Mosquito Interaction Project</title>
+    <link>https://h-mip.com/categories/</link>
+    <description>Recent content in Categories on Human-Mosquito Interaction Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 John R.B. Palmer all right reserved. Built with [Hugo](https://gohugo.io/) using the [Meghna Hugo Theme](https://themes.gohugo.io/meghna-hugo/) by [Themefisher](https://themefisher.com/).</copyright>
+    
+	<atom:link href="https://h-mip.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
