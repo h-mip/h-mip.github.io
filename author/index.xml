@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Human-Mosquito Interaction Project</title>
-    <link>https://h-mip.com/author/</link>
+    <link>http://h-mip.com/author/</link>
     <description>Recent content in Authors on Human-Mosquito Interaction Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 John R.B. Palmer all right reserved. Built with [Hugo](https://gohugo.io/) using the [Meghna Hugo Theme](https://themes.gohugo.io/meghna-hugo/) by [Themefisher](https://themefisher.com/).</copyright>
     
-	<atom:link href="https://h-mip.com/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://h-mip.com/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>John Doe</title>
-      <link>https://h-mip.com/author/john-doe/</link>
+      <link>http://h-mip.com/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h-mip.com/author/john-doe/</guid>
+      <guid>http://h-mip.com/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://h-mip.com/author/mark-dinn/</link>
+      <link>http://h-mip.com/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://h-mip.com/author/mark-dinn/</guid>
+      <guid>http://h-mip.com/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     

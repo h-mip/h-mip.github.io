@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://h-mip.com/author/</loc>
+    <loc>http://h-mip.com/author/</loc>
   </url>
   
   <url>
-    <loc>https://h-mip.com/categories/</loc>
+    <loc>http://h-mip.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://h-mip.com/</loc>
+    <loc>http://h-mip.com/</loc>
   </url>
   
   <url>
-    <loc>https://h-mip.com/author/john-doe/</loc>
+    <loc>http://h-mip.com/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>https://h-mip.com/author/mark-dinn/</loc>
+    <loc>http://h-mip.com/author/mark-dinn/</loc>
   </url>
   
   <url>
-    <loc>https://h-mip.com/tags/</loc>
+    <loc>http://h-mip.com/tags/</loc>
   </url>
   
 </urlset>
