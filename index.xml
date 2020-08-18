@@ -6,7 +6,7 @@
     <description>Recent content on Human-Mosquito Interaction Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 John R.B. Palmer all rights reserved. Built with [Hugo](https://gohugo.io/) using the [Meghna Hugo Theme](https://themes.gohugo.io/meghna-hugo/) by [Themefisher](https://themefisher.com/). This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 853271). The content of this website represents the views of the author only and is his sole responsibility. The European Commission does not accept any responsibility for the use that may be made of the information it contains.</copyright>
+    <copyright>This website is built and maintained by [John Palmer](http://johnrbpalmer.com) using [Hugo](https://gohugo.io/) and the [Meghna Hugo Theme](https://themes.gohugo.io/meghna-hugo/) by [Themefisher](https://themefisher.com/). The Human-Mosquito Interaction Project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 853271). The content of this website represents the views of the author only and is his sole responsibility. The European Commission does not accept any responsibility for the use that may be made of the information it contains.</copyright>
     
 	<atom:link href="https://h-mip.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       
       <guid>https://h-mip.com/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>¡Gracias! Gràcies! Thank you!</title>
+      <link>https://h-mip.com/thanks_survey_2020_08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://h-mip.com/thanks_survey_2020_08/</guid>
+      <description>Know someone else who uses Mosquito Alert? Please pass on the survey link using one of the buttons below or by copying and pasting: https://ee.</description>
     </item>
     
   </channel>
