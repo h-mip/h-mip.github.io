@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://h-mip.com/author/</loc>
-  </url><url>
-    <loc>https://h-mip.com/categories/</loc>
-  </url><url>
-    <loc>https://h-mip.com/</loc>
-  </url><url>
-    <loc>https://h-mip.com/author/john-doe/</loc>
-  </url><url>
-    <loc>https://h-mip.com/author/mark-dinn/</loc>
-  </url><url>
-    <loc>https://h-mip.com/participate/</loc>
-  </url><url>
-    <loc>https://h-mip.com/tags/</loc>
-  </url><url>
-    <loc>https://h-mip.com/thanks_survey_2020_08/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://h-mip.com/ca/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://h-mip.com/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
