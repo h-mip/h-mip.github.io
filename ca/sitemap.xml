@@ -2,13 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://h-mip.com/ca/blog/</loc>
+    <loc>https://h-mip.com/blog/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/blog/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -16,11 +11,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://h-mip.com/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/blog/"
+                href="https://h-mip.com/blog/"
                 />
   </url><url>
-    <loc>https://h-mip.com/ca/blog/2021-08-09/</loc>
+    <loc>https://h-mip.com/blog/2021-08-09/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -30,21 +30,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/blog/2021-08-09/"
+                href="https://h-mip.com/en/blog/2021-08-09/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/blog/2021-08-09/"
+                href="https://h-mip.com/blog/2021-08-09/"
                 />
   </url><url>
-    <loc>https://h-mip.com/ca/</loc>
+    <loc>https://h-mip.com/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -52,17 +47,17 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://h-mip.com/ca/"
+                hreflang="en"
+                href="https://h-mip.com/en/"
                 />
-  </url><url>
-    <loc>https://h-mip.com/ca/blog/2021-06-16/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/blog/2021-06-16/"
+                hreflang="ca"
+                href="https://h-mip.com/"
                 />
+  </url><url>
+    <loc>https://h-mip.com/blog/2021-06-16/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -70,11 +65,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://h-mip.com/en/blog/2021-06-16/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/blog/2021-06-16/"
+                href="https://h-mip.com/blog/2021-06-16/"
                 />
   </url><url>
-    <loc>https://h-mip.com/ca/blog/2021-05-25/</loc>
+    <loc>https://h-mip.com/blog/2021-05-25/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -84,20 +84,15 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/blog/2021-05-25/"
+                href="https://h-mip.com/en/blog/2021-05-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/blog/2021-05-25/"
+                href="https://h-mip.com/blog/2021-05-25/"
                 />
   </url><url>
-    <loc>https://h-mip.com/ca/author/alex-richter-boix/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/author/alex-richter-boix/"
-                />
+    <loc>https://h-mip.com/author/alex-richter-boix/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -105,16 +100,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://h-mip.com/ca/author/alex-richter-boix/"
+                hreflang="en"
+                href="https://h-mip.com/en/author/alex-richter-boix/"
                 />
-  </url><url>
-    <loc>https://h-mip.com/ca/author/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/author/"
+                hreflang="ca"
+                href="https://h-mip.com/author/alex-richter-boix/"
                 />
+  </url><url>
+    <loc>https://h-mip.com/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -122,16 +117,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://h-mip.com/ca/author/"
+                hreflang="en"
+                href="https://h-mip.com/en/author/"
                 />
-  </url><url>
-    <loc>https://h-mip.com/ca/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/categories/"
+                hreflang="ca"
+                href="https://h-mip.com/author/"
                 />
+  </url><url>
+    <loc>https://h-mip.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -139,11 +134,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://h-mip.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/categories/"
+                href="https://h-mip.com/categories/"
                 />
   </url><url>
-    <loc>https://h-mip.com/ca/author/john-doe/</loc>
+    <loc>https://h-mip.com/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -152,10 +152,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/author/john-doe/"
+                href="https://h-mip.com/author/john-doe/"
                 />
   </url><url>
-    <loc>https://h-mip.com/ca/author/mark-dinn/</loc>
+    <loc>https://h-mip.com/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -164,15 +164,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/author/mark-dinn/"
+                href="https://h-mip.com/author/mark-dinn/"
                 />
   </url><url>
-    <loc>https://h-mip.com/ca/author/marta-mora/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/author/marta-mora/"
-                />
+    <loc>https://h-mip.com/author/marta-mora/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -180,16 +175,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://h-mip.com/ca/author/marta-mora/"
+                hreflang="en"
+                href="https://h-mip.com/en/author/marta-mora/"
                 />
-  </url><url>
-    <loc>https://h-mip.com/ca/participate/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/participate/"
+                hreflang="ca"
+                href="https://h-mip.com/author/marta-mora/"
                 />
+  </url><url>
+    <loc>https://h-mip.com/participate/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -197,16 +192,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://h-mip.com/ca/participate/"
+                hreflang="en"
+                href="https://h-mip.com/en/participate/"
                 />
-  </url><url>
-    <loc>https://h-mip.com/ca/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/tags/"
+                hreflang="ca"
+                href="https://h-mip.com/participate/"
                 />
+  </url><url>
+    <loc>https://h-mip.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -214,16 +209,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://h-mip.com/ca/tags/"
+                hreflang="en"
+                href="https://h-mip.com/en/tags/"
                 />
-  </url><url>
-    <loc>https://h-mip.com/ca/thanks_survey_2020_08/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://h-mip.com/thanks_survey_2020_08/"
+                hreflang="ca"
+                href="https://h-mip.com/tags/"
                 />
+  </url><url>
+    <loc>https://h-mip.com/thanks_survey_2020_08/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -231,8 +226,13 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://h-mip.com/en/thanks_survey_2020_08/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/thanks_survey_2020_08/"
+                href="https://h-mip.com/thanks_survey_2020_08/"
                 />
   </url>
 </urlset>

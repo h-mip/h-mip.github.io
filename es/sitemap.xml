@@ -7,12 +7,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/blog/"
+                href="https://h-mip.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/blog/"
+                href="https://h-mip.com/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -25,12 +25,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/blog/2021-08-09/"
+                href="https://h-mip.com/blog/2021-08-09/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/blog/2021-08-09/"
+                href="https://h-mip.com/en/blog/2021-08-09/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -43,12 +43,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/"
+                href="https://h-mip.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/"
+                href="https://h-mip.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -60,13 +60,13 @@
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ca"
                 href="https://h-mip.com/blog/2021-06-16/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://h-mip.com/ca/blog/2021-06-16/"
+                hreflang="en"
+                href="https://h-mip.com/en/blog/2021-06-16/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -79,12 +79,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/blog/2021-05-25/"
+                href="https://h-mip.com/blog/2021-05-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/blog/2021-05-25/"
+                href="https://h-mip.com/en/blog/2021-05-25/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -96,12 +96,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/author/alex-richter-boix/"
+                href="https://h-mip.com/author/alex-richter-boix/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/author/alex-richter-boix/"
+                href="https://h-mip.com/en/author/alex-richter-boix/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -113,12 +113,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/author/"
+                href="https://h-mip.com/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/author/"
+                href="https://h-mip.com/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -130,12 +130,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/categories/"
+                href="https://h-mip.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/categories/"
+                href="https://h-mip.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -147,7 +147,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/author/john-doe/"
+                href="https://h-mip.com/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -159,7 +159,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/author/mark-dinn/"
+                href="https://h-mip.com/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -171,12 +171,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/author/marta-mora/"
+                href="https://h-mip.com/author/marta-mora/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/author/marta-mora/"
+                href="https://h-mip.com/en/author/marta-mora/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -188,12 +188,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/participate/"
+                href="https://h-mip.com/participate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/participate/"
+                href="https://h-mip.com/en/participate/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -205,12 +205,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/tags/"
+                href="https://h-mip.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/tags/"
+                href="https://h-mip.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -222,12 +222,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://h-mip.com/ca/thanks_survey_2020_08/"
+                href="https://h-mip.com/thanks_survey_2020_08/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://h-mip.com/thanks_survey_2020_08/"
+                href="https://h-mip.com/en/thanks_survey_2020_08/"
                 />
     <xhtml:link
                 rel="alternate"
