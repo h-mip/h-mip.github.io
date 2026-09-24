@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /explore/
-Disallow: /explore-staging/
 
 Sitemap: https://h-mip.com/explore/sitemap-index.xml
