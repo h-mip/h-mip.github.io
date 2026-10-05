@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /explore/
+
+Sitemap: https://h-mip.com/explore/sitemap-index.xml
