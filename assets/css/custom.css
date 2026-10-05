@@ -86,3 +86,32 @@ code {
 .text-white {
   color: #fff !important;
 }
+
+/* team: photos fill the card (they used to leave a strip on the right) */
+.member-photo picture {
+  display: block;
+}
+
+.member-photo img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+/* team: initials tile for members without a photo */
+.member-initials {
+  aspect-ratio: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #3a424b 0%, #2c333a 100%);
+}
+
+.member-initials span {
+  font-family: "Quattrocento Sans", sans-serif;
+  font-size: 96px;
+  letter-spacing: 4px;
+  color: #57cbcc;
+  opacity: 0.85;
+}

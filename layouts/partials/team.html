@@ -1,4 +1,5 @@
 {{ $data := index site.Data site.Language.Lang }}
+{{ $lang := site.Language.Lang }}
 
 {{ if $data.team.team.enable }}
 {{ with $data.team.team }}
@@ -16,29 +17,59 @@
       </div>
       {{"<!-- /section title -->" | safeHTML}}
 
-      {{ range .team_member}}
+      {{ range site.Data.team_members.members }}
+      {{ $member := . }}
+      {{/* designation and content are either one string or a ca/es/en map */}}
+      {{ $designation := .designation }}
+      {{ if reflect.IsMap $designation }}{{ $designation = index $designation $lang }}{{ end }}
+      {{ $content := .content }}
+      {{ if reflect.IsMap $content }}{{ $content = index $content $lang }}{{ end }}
       {{"<!-- team member -->" | safeHTML}}
       <div class="col-lg-4 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
         <div class="team-member">
           <div class="member-photo">
+            {{ with .image }}
             {{"<!-- member photo -->" | safeHTML}}
-            <img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
+            {{ with resources.Get . }}
+            {{/* crop square, never upscaling, at most 600px */}}
+            {{ $size := cond (lt .Width .Height) .Width .Height }}
+            {{ $size = cond (gt $size 600) 600 $size }}
+            {{ $webp := .Fill (printf "%dx%d Center webp q85" $size $size) }}
+            {{ $jpg := .Fill (printf "%dx%d Center jpg q85" $size $size) }}
+            <picture>
+              <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+              <img src="{{ $jpg.RelPermalink }}" width="{{ $size }}" height="{{ $size }}" alt="{{ $member.name }}" loading="lazy">
+            </picture>
+            {{ else }}
+            {{ errorf "team photo %q (for %s) is not in assets/" . $member.name }}
+            {{ end }}
+            {{ else }}
+            {{"<!-- no photo: initials -->" | safeHTML}}
+            {{ $initials := .initials }}
+            {{ if not $initials }}
+            {{ $parts := split .name " " }}
+            {{ $initials = printf "%s%s" (substr (index $parts 0) 0 1) (substr (index $parts (sub (len $parts) 1)) 0 1) }}
+            {{ end }}
+            <div class="member-initials" aria-hidden="true"><span>{{ $initials }}</span></div>
+            {{ end }}
 
+            {{ with .social }}
             {{"<!-- member social profile -->" | safeHTML}}
             <div class="mask">
               <ul class="list-inline">
-                {{ range .social }}
+                {{ range . }}
                 <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
                 {{ end }}
               </ul>
             </div>
+            {{ end }}
           </div>
 
           {{"<!-- member name & designation -->" | safeHTML}}
           <div class="member-meta">
             <h5>{{ .name }}</h5>
-            <span>{{ .designation | markdownify}}</span>
-            <p style="line-height: normal; font-size: 80%;">{{ .content | markdownify }}</p>
+            <span>{{ $designation | markdownify }}</span>
+            <p style="line-height: normal; font-size: 80%;">{{ $content | markdownify }}</p>
           </div>
         </div>
       </div>

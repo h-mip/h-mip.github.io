@@ -1,0 +1,178 @@
+# Team members, shown in this order in all three languages. The section title
+# and on/off switch are in data/<lang>/team.yml.
+#
+# name         shown as written
+# image        photo in assets/images/team/ (any size; it is cropped square and
+#              resized at build time). Leave it out for someone who prefers no
+#              photo: their initials are shown instead.
+# initials     optional; overrides the initials shown when there is no photo
+# designation  role; either one text for all languages or ca/es/en versions
+# content      position and institution; same rules as designation
+# social       profile links: icon is a themify (ti-...) or Font Awesome
+#              (fab fa-...) class
+
+members:
+
+  # --- principal investigators ---
+
+  - name: John Palmer
+    image: images/team/jp.jpg
+    designation:
+      ca: Coordinador/investigador principal
+      es: Coordinador/investigador principal
+      en: Lead Principal Investigator
+    content:
+      ca: Professor Agregat Interí, UPF
+      es: Profesor Agregado Interino, UPF
+      en: Associate Professor (*Agregat Interí*), UPF
+    social:
+      - icon: ti-world
+        link: http://johnrbpalmer.com/
+      - icon: fab fa-google
+        link: https://scholar.google.com/citations?user=CF8i5n8AAAAJ&hl=en
+      - icon: fab fa-orcid
+        link: https://orcid.org/0000-0002-2648-7860
+      - icon: ti-github
+        link: https://github.com/JohnPalmer
+
+  - name: Frederic Bartumeus
+    image: images/team/fb.jpg
+    designation:
+      ca: Investigador principal
+      es: Investigador principal
+      en: Principal Investigator
+    content:
+      ca: Professor d'investigació ICREA, CEAB-CSIC
+      es: Investigador ICREA, CEAB-CSIC
+      en: ICREA Research Professor, CEAB-CSIC
+    social:
+      - icon: ti-world
+        link: http://www.theelab.net/team/frederic-bartumeus/
+      - icon: ti-world
+        link: https://www.icrea.cat/Web/ScientificStaff/frederic-bartumeus-572
+      - icon: fab fa-researchgate
+        link: https://www.researchgate.net/profile/Frederic_Bartumeus
+
+  - name: Marc Ventura
+    image: images/team/mv.jpg
+    designation:
+      ca: Investigador principal
+      es: Investigador principal
+      en: Principal Investigator
+    content:
+      ca: Científic Titular, CEAB-CSIC
+      es: Científico Titular, CEAB-CSIC
+      en: Scientist, CEAB-CSIC
+    social:
+      - icon: ti-world
+        link: http://www.ceab.csic.es/personal/marc-ventura-oller/
+      - icon: fab fa-google
+        link: https://scholar.google.es/citations?user=LD0KeSMAAAAJ&hl=en
+      - icon: fab fa-researchgate
+        link: https://www.researchgate.net/profile/Marc_Ventura
+
+  # --- postdocs ---
+
+  - name: Israa Abushaker
+    image: images/team/ia.jpg
+    designation: Postdoc
+    content:
+      ca: Investigador/a postdoctoral, UPF  # TODO: Investigador or Investigadora?
+      es: Investigador/a postdoctoral, UPF  # TODO: Investigador or Investigadora?
+      en: Postdoctoral researcher, UPF
+
+  - name: Federica Lucati
+    image: images/team/fl.jpg
+    designation: Postdoc
+    content:
+      ca: Investigadora postdoctoral, UPF
+      es: Investigadora postdoctoral, UPF
+      en: Postdoctoral researcher, UPF
+    social:
+      - icon: fab fa-researchgate
+        link: https://www.researchgate.net/profile/Federica_Lucati
+      - icon: ti-twitter-alt
+        link: https://twitter.com/FedericaLucati
+      - icon: fab fa-orcid
+        link: https://orcid.org/0000-0001-9925-7137
+
+  - name: Alex Richter-Boix
+    image: images/team/ar.jpg
+    designation: Postdoc
+    content:
+      ca: Investigador postdoctoral, UPF
+      es: Investigador postdoctoral, UPF
+      en: Postdoctoral researcher, UPF
+    social:
+      - icon: ti-world
+        link: https://www.upf.edu/web/demosoc/entry/-/-/161865/adscripcion/alexander-richter
+      - icon: fab fa-google
+        link: https://scholar.google.es/citations?user=VNJRYiAAAAAJ&hl=en
+      - icon: ti-twitter-alt
+        link: https://twitter.com/BoixRichter
+
+  - name: Isis Sanpera
+    image: images/team/is.jpg
+    designation: Postdoc
+    content:
+      ca: Investigadora postdoctoral, UPF
+      es: Investigadora postdoctoral, UPF
+      en: Postdoctoral researcher, UPF
+    social:
+      - icon: ti-linkedin
+        link: https://www.linkedin.com/in/isissanperacalbet
+      - icon: fab fa-orcid
+        link: https://orcid.org/0000-0001-7004-4293
+
+  # --- PhD students (listed by their role in the project) ---
+
+  - name: Karl Broome
+    designation:
+      ca: Estudiant de Doctorat
+      es: Estudiante de Doctorado
+      en: Ph.D. Student
+    content:
+      ca: Estudiant de Doctorat, UPF
+      es: Estudiante de Doctorado, UPF
+      en: Ph.D. student, UPF
+
+  - name: Berj Dekramanjian
+    image: images/team/bd.jpg
+    designation:
+      ca: Estudiant de Doctorat
+      es: Estudiante de Doctorado
+      en: Ph.D. Student
+    content:
+      ca: Estudiant de Doctorat, UPF
+      es: Estudiante de Doctorado, UPF
+      en: Ph.D. student, UPF
+    social:
+      - icon: ti-linkedin
+        link: https://www.linkedin.com/in/berj/
+
+  - name: Ramona Ottow
+    image: images/team/ro.jpg
+    designation:
+      ca: Estudiant de Doctorat
+      es: Estudiante de Doctorado
+      en: Ph.D. Student
+    content:
+      ca: Estudiant de Doctorat, UPF
+      es: Estudiante de Doctorado, UPF
+      en: Ph.D. student, UPF
+
+  # --- research staff ---
+
+  - name: Jenny Caner
+    image: images/team/jc.jpg
+    designation:
+      ca: Tècnica de recerca
+      es: Técnica de investigación
+      en: Research Technician
+    content:
+      ca: Tècnica de recerca, CEAB-CSIC
+      es: Técnica de investigación, CEAB-CSIC
+      en: Research Tech., CEAB-CSIC
+    social:
+      - icon: fab fa-researchgate
+        link: https://www.researchgate.net/profile/Jenny_Caner
