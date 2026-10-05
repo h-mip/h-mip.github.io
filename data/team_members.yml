@@ -22,9 +22,9 @@ members:
       es: Coordinador/investigador principal
       en: Lead Principal Investigator
     content:
-      ca: Professor Agregat Interí, UPF
-      es: Profesor Agregado Interino, UPF
-      en: Associate Professor (*Agregat Interí*), UPF
+      ca: Professor Agregat, UPF
+      es: Profesor Agregado, UPF
+      en: Associate Professor (*Agregat*), UPF
     social:
       - icon: ti-world
         link: http://johnrbpalmer.com/
@@ -77,8 +77,8 @@ members:
     image: images/team/ia.jpg
     designation: Postdoc
     content:
-      ca: Investigador/a postdoctoral, UPF  # TODO: Investigador or Investigadora?
-      es: Investigador/a postdoctoral, UPF  # TODO: Investigador or Investigadora?
+      ca: Investigadora postdoctoral, UPF
+      es: Investigadora postdoctoral, UPF
       en: Postdoctoral researcher, UPF
 
   - name: Federica Lucati
