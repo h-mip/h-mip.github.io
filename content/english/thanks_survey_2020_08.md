@@ -2,7 +2,6 @@
 title: "¡Gracias! Gràcies! Thank you!"
 layout: "thanks"
 type: "base"
-kind: "thanks_survey_2020_08"
 draft: false
 image: "images/mosquito_alert/LOGO_MosquitoAlert_cuadrado_letrasblancas_PNG.png"
 image_link: "http://mosquitoalert.com"

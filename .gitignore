@@ -10,3 +10,7 @@ node_modules
 builds
 package-lock.json
 resources
+# local working files (not part of the site)
+scratch/
+public/
+.hugo_build.lock
