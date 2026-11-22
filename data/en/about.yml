@@ -4,7 +4,7 @@ about:
   title : About
   funding_title: "Funded by the European Research Council"
   funding_detail: "ERC-2019-STG - ERC Starting Grant"
-  funding_dates: "1 April 2020 - 31 March 2025"
+  funding_dates: "1 April 2020 – 30 September 2026"
   funding_budget: "Overall budget: €1,960,828"
   funding_image: "images/logos_erc.jpg"
   implementation_title: "Implemented by"
@@ -15,12 +15,12 @@ about:
   about_item :
   - icon : "fas fa-dna" # themify icon pack : https://themify.me/themify-icons
     title : DNA Analysis
-    content : We're analyzing DNA to see how many different people each mosquito bites.
+    content : "We analysed DNA from mosquito blood meals to see how many different people each mosquito bites."
 
   - icon : "fas fa-people-arrows" # themify icon pack : https://themify.me/themify-icons
     title : Citizen Science
-    content : Citizen scientists are reporting where they find mosquitoes and where they get bitten.
+    content : "Citizen scientists reported where they found mosquitoes and where they were bitten."
 
   - icon : "fas fa-mobile-alt" # themify icon pack : https://themify.me/themify-icons
-    title : Mobile Positioning
-    content : Volunteers are sharing GPS data to see how mobility shapes mosquito interactions.
+    title : Mobility
+    content : "We used mobility data and map-based surveys to see how people's movements shape their encounters with mosquitoes."

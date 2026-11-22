@@ -1,15 +1,15 @@
 ############################### Participate Detail ################################
 participate_detail:
   title : "Participate in H-MIP"
-  content : "If you are at least 18 years old, you can participate in the project by reporting mosquitoes through the Mosquito Alert citizen science system, or by volunteering to be interviewed or observed, or to have us inspect your house for mosquitoes or analyze your DNA to see which mosquitoes we can find that have bitten you. To participate with Mosquito Alert, just download the app and start reporting what you find. For other forms of participation, download our information sheet and consent form below and then choose what you want to do. You can always change your mind and withdraw from an activity or add a new one."
-  main_download_button : "Download Information Sheet and Consent Form"
-  main_download_button_url: "../docs/info_consent_full_en.pdf"
+  content: "H-MIP ended on 30 September 2026 and is no longer recruiting volunteers. Thank you to everyone who took part. You can keep helping mosquito research by reporting mosquitoes and bites with Mosquito Alert, which continues."
+  main_download_button : "Go to Mosquito Alert"
+  main_download_button_url: "https://www.mosquitoalert.com"
   service_item :
     # service item loop
     - name : "Mosquito Alert"
       id : mosquito_alert
       icon : "fas fa-people-arrows"
-      content : "Start participating by downloading the Mosquito Alert app. Report mosquitoes and their breeding sites when you find them. Mark where you have been bitten. Learn about mosquitoes and more."
+      content : "Mosquito Alert continues after H-MIP. Download the app to report mosquitoes, their breeding sites and where you are bitten."
       button : true
       button_text : "Go to Mosquito Alert now"
       button_url: http://www.mosquitoalert.com
@@ -18,38 +18,35 @@ participate_detail:
     - name : "Talk to us"
       id: talk
       icon : "fas fa-comments"
-      content : "Talk to us about your experiences with mosquitoes. We are recruiting volunteers for interviews, which could be in person or by phone or video conference. We can keep the interview very short if you are pressed for time, or make it longer if you want to talk more. We are particularly interested in learning where and when you tend to be bitten by mosquitoes and how often. If you want to participate in just a very short interview, download the information sheet below and come talk to us."
-      button : true
-      button_text : "Download the information sheet for short interviews"
-      button_url: ../docs/info_short_interviews_en.pdf
+      content : "We interviewed people about their experiences with mosquitoes — in the street, in person, or by phone or video call — asking where and when they were bitten and how often."
 
       
     # service item loop
     - name : "Show us"
       id: show
       icon : "fas fa-walking"
-      content : "Let us accompany you during your usual routines to observe mosquito interactions. We will soon be recruiting volunteers."
+      content : "We invited volunteers to let us accompany them during their usual routines, to observe their encounters with mosquitoes."
       
     # service item loop
     - name : Share mosquitoes
       id: share_mosquitoes
       icon : "fas fa-binoculars" # themify icon pack : https://themify.me/themify-icons
-      content : "Let us hunt mosquitoes in or around your home, garden or other places where you spend time. We will soon be recruiting volunteers."
+      content : "We invited volunteers to let us collect mosquitoes in and around their homes, gardens and other places where they spend time."
       
     # service item loop
     - name : Share tracks
       id: share_tracks
       icon : "fas fa-mobile-alt"
-      content : "Share your mobility patterns using a privacy-focused app. We will soon be releasing a new version of Space Mapper, which uses end-to-end encryption and lets you control what you share."
+      content : "We improved Space Mapper, an open-source, privacy-focused app for research on human mobility that uses end-to-end encryption and lets participants control what they share."
       button: true
-      button_url: https://github.com/ActivitySpaceProject/space_mapper
+      button_url: https://github.com/ActivitySpaceLab/space_mapper
       button_text: "Learn more about Space Mapper"
       
     # service item loop
     - name : Share DNA
       id: share_dna
       icon : "fas fa-dna"
-      content : "Spit into a tube so that we can analyze your DNA and see which mosquitoes have bitten you. We have been recruiting volunteers for this at special outdoor events, but will are also interested in volunteers for this component if we are also collecting mosquitoes near your house or some other place where you spend time outdoors."
+      content : "Volunteers gave saliva samples, for example at outdoor events, so that we could compare their DNA with the human blood found in mosquitoes."
       button: true
       button_text: "Learn more about DNA collection"
       button_url: http://www.mosquitoalert.com/en/reconstruyendo-la-interaccion-humano-mosquito-en-el-jardin-botanico-marimurtra/

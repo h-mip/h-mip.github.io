@@ -4,7 +4,7 @@ about:
   title : Sobre
   funding_title: "Finançat pel Consell Europeu de Recerca"
   funding_detail: "ERC-2019-STG - ERC Starting Grant"
-  funding_dates: "1 d'abril de 2020 - 31 de març de 2025"
+  funding_dates: "1 d'abril de 2020 – 30 de setembre de 2026"
   funding_budget: "Pressupost global: €1,960,828"
   funding_image: "images/logos_erc.jpg"
   implementation_title: "Implementat per"
@@ -15,12 +15,12 @@ about:
   about_item :
   - icon : "fas fa-dna" # themify icon pack : https://themify.me/themify-icons
     title : Anàlisi d'ADN
-    content : Estem analitzant l'ADN per saber a quantes persones diferents pica cada mosquit.
+    content : "Vam analitzar l'ADN de la sang que porten els mosquits per saber a quantes persones diferents pica cada mosquit."
 
   - icon : "fas fa-people-arrows" # themify icon pack : https://themify.me/themify-icons
     title : Ciència Ciutadana
-    content : Els científics ciutadans poden informar d'on troben els mosquits i on els piquen.
+    content : "Els científics ciutadans van informar d'on trobaven mosquits i d'on els picaven."
 
   - icon : "fas fa-mobile-alt" # themify icon pack : https://themify.me/themify-icons
-    title : Localització mòbil
-    content : Els voluntaris poden compartint dades del GPS per analitzar com la mobilitat condiciona les interaccions amb els mosquits.
+    title : Mobilitat
+    content : "Vam fer servir dades de mobilitat i enquestes amb mapes per veure com els desplaçaments de les persones condicionen les seves interaccions amb els mosquits."

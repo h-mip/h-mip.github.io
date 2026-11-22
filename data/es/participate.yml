@@ -2,7 +2,7 @@
 participate:
   enable : true
   title : Participa
-  content: "Puedes participar de varias maneras, elige una o más de estas opciones. Algunas estarán disponibles durante las semanas próximas."
+  content: "El H-MIP terminó el 30 de septiembre de 2026 y ya no recluta voluntarios. Gracias a todas las personas que han participado. Puedes seguir ayudando a la investigación sobre mosquitos avisando de los mosquitos y las picaduras con Mosquito Alert, que sigue en marcha."
   main_button_url: participate
   main_button_text: "Aprende más"
   service_item :
@@ -16,35 +16,35 @@ participate:
     - name : "[Hablemos](#talk)"
       icon : "fas fa-comments"
       url: participate#talk
-      content : "Háblanos de tus experiencias con los mosquitos."
+      content : "Hablamos con la gente sobre sus experiencias con los mosquitos."
       
     # service item loop
     - name : "[Enséñanos](#show)"
       icon : "fas fa-walking"
       url: participate#show
-      content : "Déjanos acompañarte durante tus rutinas habituales."
+      content : "Invitamos a voluntarios a dejarnos acompañarlos en sus rutinas."
       
     # service item loop
     - name : "[Capturamos mosquitos](#share_mosquitoes)"
       icon : "fas fa-binoculars" # themify icon pack : https://themify.me/themify-icons
       url: participate#share_mosquitoes
-      content : "Déjanos capturar mosquitos donde pasas el tiempo o sus alrededores."
+      content : "Invitamos a voluntarios a dejarnos capturar mosquitos donde pasan el tiempo."
       
     # service item loop
     - name : "[Comparte tu movilidad](#share_tracks)"
       icon : "fas fa-mobile-alt"
       url: participate#share_tracks
-      content : "Compar patrones de movilidad con una aplicación especializada."
+      content : "Mejoramos Space Mapper, una aplicación de movilidad centrada en la privacidad."
       
     # service item loop
     - name : "[Comparte ADN](#share_dna)"
       icon : "fas fa-dna"
       url: participate#share_dna
-      content : "Dona una muestra de saliva para averiguar qué y cuántos mosquitos te han picado."
+      content : "Los voluntarios dieron muestras de saliva para compararlas con la sangre humana de los mosquitos."
 
-  content_detail : "Si tienes 18 años como mínimo, puedes participar en el proyecto avisando de los mosquitos que encuentras a través del sistema de ciencia ciudadana Mosquito Alert, u ofreciéndote voluntario para ser entrevistado u observado, o permitiéndonos inspeccionar tu casa para detectar mosquitos, así como analizar tu ADN para estudiar cuáles de los mosquitos que podemos encontrar en tus espacios te han picado. Para participar con Mosquito Alert, basta con que te bajes la aplicación y comiences a informar de los mosquitos que encuentres. Para otras formas de participación, descarga nuestra hoja informativa y el formulario de consentimiento para elegir qué forma de participación se ajusta mejor a tus posibilidades. Siempre puedes cambiar de opinión y retirarte de una actividad o añadir una nueva."
-  main_download_button : "Descarga la hoja informativa y el formulario de consentimiento"
-  main_download_button_url: "../docs/info_consent_full_es.pdf"
+  content_detail : "El H-MIP terminó el 30 de septiembre de 2026 y ya no recluta voluntarios. Gracias a todas las personas que han participado. Puedes seguir ayudando a la investigación sobre mosquitos avisando de los mosquitos y las picaduras con Mosquito Alert, que sigue en marcha."
+  main_download_button : "Ir a Mosquito Alert"
+  main_download_button_url: "https://www.mosquitoalert.com"
   service_item_detail :
     # service item loop
     - name : "Mosquito Alert"
@@ -52,7 +52,7 @@ participate:
       icon : "fas fa-people-arrows"
       image: images/participate/malert.png
       image_webp: images/participate/malert.webp
-      content : "Empieza a participar bajando la aplicación Mosquito Alert. Avisa de los mosquitos que veas y sus sitios de cría, marca donde te han picado, y obtiene información sobre los mosquitos."
+      content : "Mosquito Alert sigue después del H-MIP. Bájate la aplicación para avisar de los mosquitos, sus sitios de cría y dónde te han picado."
       button : true
       button_text : "Participa con Mosquito Alert"
       button_url: http://www.mosquitoalert.com
@@ -63,10 +63,7 @@ participate:
       icon : "fas fa-comments"
       image: images/participate/talk_to_us.jpg
       image_webp: images/participate/talk_to_us.webp
-      content : "Háblanos de tus experiencias con los mosquitos. Estamos reclutando voluntarios para realizar entrevistas: pueden ser presenciales, por teléfono o videoconferencia. Si quieres participar pero tienes poco tiempo podemos realizar una entrevista muy corta, o hacerla más larga si dispones de más tiempo. Nos ajustamos a tus necesidades. Estamos especialmente interesados en saber dónde te pican los mosquitos y con qué frecuencia lo hacen. Si sólo quieres participar en una entrevista muy breve, descárgate la hoja informativa y ven a hablar con nosotros."
-      button : true
-      button_text : "Descarga la hoja informativa para entrevistas breves"
-      button_url: ../docs/info_short_interviews_es.pdf
+      content : "Entrevistamos a personas sobre sus experiencias con los mosquitos —en la calle, en persona o por teléfono o videollamada— y les preguntamos dónde y cuándo les picaban y con qué frecuencia."
 
       
     # service item loop
@@ -75,7 +72,7 @@ participate:
       icon : "fas fa-walking"
       image: images/participate/walking.jpg
       image_webp: images/participate/walking.webp
-      content : "Déjanos acompañarte durante tus rutinas habituales para detectar dónde y el tipo de interacciones que tienes con los mosquitos. Pronto reclutaremos a voluntarios."
+      content : "Invitamos a voluntarios a dejarnos acompañarlos durante sus rutinas habituales para observar sus interacciones con los mosquitos."
       
     # service item loop
     - name : "Capturamos mosquitos"
@@ -83,7 +80,7 @@ participate:
       icon : "fas fa-binoculars" # themify icon pack : https://themify.me/themify-icons
       image: images/participate/mosquits.jpg
       image_webp: images/participate/mosquits.webp
-      content : "Déjanos capturar mosquitos en tu casa, jardín u otros lugares donde pasas el tiempo y alrededores. Pronto reclutaremos a voluntarios."
+      content : "Invitamos a voluntarios a dejarnos capturar mosquitos en su casa y alrededores, en su jardín y en otros lugares donde pasan el tiempo."
       
     # service item loop
     - name : "Comparte tu movilidad"
@@ -91,9 +88,9 @@ participate:
       icon : "fas fa-mobile-alt"
       image: images/participate/tracks.png
       image_webp: images/participate/tracks.webp
-      content : "Comparte tus patrones de movilidad mediante una aplicación centrada en la privacidad de datos. Pronto lanzaremos una nueva versión de la app Space Mapper, que utiliza el cifrado de extremo a extremo, permitiéndote controlar lo que compartes."
+      content : "Mejoramos Space Mapper, una aplicación de código abierto centrada en la privacidad para la investigación sobre la movilidad humana, que utiliza cifrado de extremo a extremo y permite a los participantes controlar qué comparten."
       button: true
-      button_url: https://github.com/ActivitySpaceProject/space_mapper
+      button_url: https://github.com/ActivitySpaceLab/space_mapper
       button_text: "Más información sobre Space Mapper"
       
     # service item loop
@@ -102,7 +99,7 @@ participate:
       icon : "fas fa-dna"
       image: images/participate/dna.png
       image_webp: images/participate/dna.webp
-      content : "Da una muestra de saliva para que podamos analizar tu ADN y averiguar cuántos mosquitos te han picado. Hemos estado reclutando voluntarios para ello en eventos especiales al aire libre, pero también estamos interesados en que participen aquellas personas que nos permiten capturar mosquitos cerca de su casa o de cualquier otro lugar donde pase tiempo al aire libre."
+      content : "Los voluntarios dieron muestras de saliva, por ejemplo en actividades al aire libre, para que pudiéramos comparar su ADN con la sangre humana encontrada en los mosquitos."
       button: true
       button_text: "Más información sobre la recogida de ADN"
       button_url: http://www.mosquitoalert.com/en/reconstruyendo-la-interaccion-humano-mosquito-en-el-jardin-botanico-marimurtra/
