@@ -43,8 +43,6 @@ participate:
       content : "Volunteers gave saliva samples to compare with the human blood in mosquitoes."
 
   content_detail : "H-MIP ended on 30 September 2026 and is no longer recruiting volunteers. Thank you to everyone who took part. You can keep helping mosquito research by reporting mosquitoes and bites with Mosquito Alert, which continues."
-  main_download_button : "Go to Mosquito Alert"
-  main_download_button_url: "https://www.mosquitoalert.com"
 
   service_item_detail :
     # service item loop

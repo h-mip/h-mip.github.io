@@ -12,7 +12,9 @@
 					<h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 							{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
 							<p>{{ .content_detail | markdownify }}</p>
+							{{ if .main_download_button }}
 							<a href="{{ .main_download_button_url | absURL }}" class="btn btn-transparent page-scroll">{{ .main_download_button }}</a>
+							{{ end }}
 
 					<div class="border-meghna"></div>
 				</div>

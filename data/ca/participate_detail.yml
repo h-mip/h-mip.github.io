@@ -2,8 +2,6 @@
 participate_detail:
   title : "Participa en H-MIP"
   content: "L'H-MIP va acabar el 30 de setembre de 2026 i ja no recluta voluntaris. Gràcies a totes les persones que hi han participat. Pots continuar ajudant la recerca sobre mosquits avisant dels mosquits i de les picades amb Mosquito Alert, que continua en marxa."
-  main_download_button : "Ves a Mosquito Alert"
-  main_download_button_url: "https://www.mosquitoalert.com"
   service_item :
     # service item loop
     - name : "Mosquito Alert"
