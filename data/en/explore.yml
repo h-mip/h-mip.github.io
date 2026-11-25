@@ -2,7 +2,10 @@
 explore:
   enable : true
   title : Explore
-  content: Check back here regularly for updates, videos, and articles.
+  content: "H-MIP Explore is where we share the project's results: an interactive map of where, when and during which activities people in Catalonia are bitten by mosquitoes, together with our data and code."
+  button:
+    label: "Explore the map and data"
+    url: "https://h-mip.com/explore/en/"
   video1 : videos/tiger_mosquito_biting_2.mp4
   video2 : videos/bg_bag_2.mp4
   video3 : videos/larvae_watering_can_a.mp4

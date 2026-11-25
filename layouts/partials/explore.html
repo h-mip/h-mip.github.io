@@ -11,6 +11,9 @@
 					<h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 							{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
 							<p>{{ .content | markdownify }}</p>
+							{{ with .button }}
+							<a href="{{ .url }}" class="btn btn-main mt-20">{{ .label }}</a>
+							{{ end }}
 					<div class="border-meghna"></div>
 				</div>
 			</div>
